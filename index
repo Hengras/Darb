@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="lv">
+<head>
+    <meta charset="UTF-8">
+    <title>Ievārījumu receptes</title>
+    <style>
+        body { font-family: Arial; margin: 2em; background: #fff7f0; color: #333; }
+        h1 { color: #8b0000; }
+        .recepte { margin-bottom: 2em; padding: 1em; border: 1px solid #ccc; border-radius: 8px; background: #fff; }
+        .nosaukums { font-weight: bold; font-size: 1.2em; }
+    </style>
+</head>
+<body>
+    <h1>Vecvecāku ievārījumu receptes</h1>
+
+    <div class="recepte">
+        <div class="nosaukums">Ābolu ievārījums ar kanēli</div>
+        <p><strong>Sastāvdaļas:</strong> 1 kg ābolu, 500 g cukura, 1 tējkarote kanēļa</p>
+        <p><strong>Pagatavošana:</strong> Nomizo ābolus, sagriež šķēlēs, liek katlā ar cukuru un kanēli. Vāra 30 minūtes uz mazas uguns.</p>
+        <p><strong>Laiks:</strong> 45 minūtes | <strong>Porcijas:</strong> 3 burciņas</p>
+    </div>
+
+    <div class="recepte">
+        <div class="nosaukums">Aveņu ievārījums</div>
+        <p><strong>Sastāvdaļas:</strong> 1 kg aveņu, 800 g cukura</p>
+        <p><strong>Pagatavošana:</strong> Aveņu ogas liek katlā, pārkaisa ar cukuru un vāra 15 minūtes. Lej sterilās burkās.</p>
+        <p><strong>Laiks:</strong> 30 minūtes | <strong>Porcijas:</strong> 2 burciņas</p>
+    </div>
+
+</body>
+</html>
