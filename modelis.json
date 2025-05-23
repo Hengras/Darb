@@ -1,0 +1,25 @@
+{
+  "receptes": [
+    {
+      "nosaukums": "Ābolu ievārījums ar kanēli",
+      "sastāvdaļas": [
+        "1 kg ābolu",
+        "500 g cukura",
+        "1 tējkarote kanēļa"
+      ],
+      "pagatavošana": "Nomizo ābolus, sagriež šķēlēs, liek katlā ar cukuru un kanēli. Vāra 30 minūtes uz mazas uguns.",
+      "laiks": "45 minūtes",
+      "porcijas": "3 burciņas"
+    },
+    {
+      "nosaukums": "Aveņu ievārījums",
+      "sastāvdaļas": [
+        "1 kg aveņu",
+        "800 g cukura"
+      ],
+      "pagatavošana": "Aveņu ogas liek katlā, pārkaisa ar cukuru un vāra 15 minūtes. Lej sterilās burkās.",
+      "laiks": "30 minūtes",
+      "porcijas": "2 burciņas"
+    }
+  ]
+}
